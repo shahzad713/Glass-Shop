@@ -396,7 +396,7 @@ export const projects: ProjectItem[] = [
     client: "Mr. Usman Tariq",
     date: "March 2024",
     servicesUsed: ["Spider Glazing", "UPVC Windows", "Glass Railings"],
-    imageUrl: "./public/luxuryvilla.jpg",
+    imageUrl: "/luxuryvilla.jpg",
   },
   {
     id: "p2",
@@ -408,7 +408,7 @@ export const projects: ProjectItem[] = [
     client: "TechSolutions Pvt Ltd",
     date: "January 2024",
     servicesUsed: ["Glass Partitions", "Automatic Doors", "Frosted Film"],
-    imageUrl: "./public/Corporate-Office-Interiors .jpg",
+    imageUrl: "/Corporate-Office-Interiors .jpg",
   },
   {
     id: "p3",
@@ -420,7 +420,7 @@ export const projects: ProjectItem[] = [
     client: "Bahria Town",
     date: "December 2023",
     servicesUsed: ["Glass Work", "High-Rise Installation", "Maintenance"],
-    imageUrl: "./public/Eiffel-Tower-Bahria-Town-Lahore.jpg",
+    imageUrl: "/Eiffel-Tower-Bahria-Town-Lahore.jpg",
   },
   {
     id: "p4",
@@ -445,7 +445,7 @@ export const projects: ProjectItem[] = [
     client: "Sapphire Retail",
     date: "October 2023",
     servicesUsed: ["Shop Fronts", "Decorative Mirrors"],
-    imageUrl: "./public/MM-Alam-Road-Boutique.jpg",
+    imageUrl: "/MM-Alam-Road-Boutique.jpg",
   },
   {
     id: "p6",
@@ -457,7 +457,7 @@ export const projects: ProjectItem[] = [
     client: "Packages Ltd",
     date: "September 2023",
     servicesUsed: ["Fiberglass Sheds", "Steel Fabrication"],
-    imageUrl: "./public/Industrial-Fiber-Shed .jpg",
+    imageUrl: "/Industrial-Fiber-Shed .jpg",
   },
   {
     id: "p7",
@@ -469,7 +469,7 @@ export const projects: ProjectItem[] = [
     client: "Bhira University Admin",
     date: "August 2023",
     servicesUsed: ["Structural Steel", "Laminated Glass"],
-    imageUrl: "./public/Bhira-University-Lahore .webp",
+    imageUrl: "/Bhira-University-Lahore .webp",
   },
   {
     id: "p8",
@@ -481,7 +481,7 @@ export const projects: ProjectItem[] = [
     client: "Winterland Management",
     date: "July 2023",
     servicesUsed: ["Insulated Glass", "Thermal Break Aluminum"],
-    imageUrl: "./public/Winterland-Park.jpg",
+    imageUrl: "/Winterland-Park.jpg",
   },
   {
     id: "p9",
@@ -493,7 +493,7 @@ export const projects: ProjectItem[] = [
     client: "ARY Network",
     date: "June 2023",
     servicesUsed: ["Acoustic Glass", "Aluminum Partitions"],
-    imageUrl: "./public/Ary-studios.webp",
+    imageUrl: "/Ary-studios.webp",
   },
   {
     id: "p10",
@@ -505,7 +505,7 @@ export const projects: ProjectItem[] = [
     client: "NHA",
     date: "May 2023",
     servicesUsed: ["Steel Fabrication", "Toughened Glass"],
-    imageUrl: "./public/Motorway-Toll-Plaza.jpg",
+    imageUrl: "/Motorway-Toll-Plaza.jpg",
   },
   {
     id: "p11",
@@ -517,7 +517,7 @@ export const projects: ProjectItem[] = [
     client: "Mrs. Farida Khan",
     date: "April 2023",
     servicesUsed: ["UPVC Windows"],
-    imageUrl: "./public/Valencia-Town-Residence.avif",
+    imageUrl: "/Valencia-Town-Residence.avif",
   },
   {
     id: "p12",
@@ -529,7 +529,7 @@ export const projects: ProjectItem[] = [
     client: "Zaitoon Developers",
     date: "March 2023",
     servicesUsed: ["ACP Cladding", "Reflective Glass"],
-    imageUrl: "./public/Zaitoon-Colony-Commercial.avif",
+    imageUrl: "/Zaitoon-Colony-Commercial.avif",
   },
   {
     id: "p13",
@@ -541,7 +541,7 @@ export const projects: ProjectItem[] = [
     client: "Fazaia Club",
     date: "February 2023",
     servicesUsed: ["Wall Mirrors", "Shower Cabins"],
-    imageUrl: "./public/FazaiaHousingGym.jpg",
+    imageUrl: "/FazaiaHousingGym.jpg",
   },
   {
     id: "p14",
@@ -553,7 +553,7 @@ export const projects: ProjectItem[] = [
     client: "Mr. Sohail",
     date: "January 2023",
     servicesUsed: ["Fiberglass Shed"],
-    imageUrl: "./public/lake-city.avif",
+    imageUrl: "/lake-city.avif",
   },
   {
     id: "p16",
@@ -565,7 +565,7 @@ export const projects: ProjectItem[] = [
     client: "Doctors Hospital",
     date: "November 2022",
     servicesUsed: ["Automatic Doors"],
-    imageUrl: "./public/Medical-Center-Entrance.jpg",
+    imageUrl: "/Medical-Center-Entrance.jpg",
   },
   {
     id: "p18",
@@ -577,7 +577,7 @@ export const projects: ProjectItem[] = [
     client: "Mosque Committee",
     date: "September 2022",
     servicesUsed: ["Fiberglass Dome", "Safety Grills"],
-    imageUrl: "./public/Bahria-Mosque.jpg",
+    imageUrl: "/Bahria-Mosque.jpg",
   },
   {
     id: "p19",
@@ -588,7 +588,7 @@ export const projects: ProjectItem[] = [
     client: "Various Tenants",
     date: "August 2022",
     servicesUsed: ["UV Bonding", "Display Glass"],
-    imageUrl: "./public/Packages-Mall-Kiosks.jpg",
+    imageUrl: "/Packages-Mall-Kiosks.jpg",
   },
 ];
 
