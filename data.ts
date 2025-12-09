@@ -396,8 +396,7 @@ export const projects: ProjectItem[] = [
     client: "Mr. Usman Tariq",
     date: "March 2024",
     servicesUsed: ["Spider Glazing", "UPVC Windows", "Glass Railings"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1600596542815-60c37c66321e?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/luxuryvilla.jpg",
   },
   {
     id: "p2",
@@ -409,21 +408,19 @@ export const projects: ProjectItem[] = [
     client: "TechSolutions Pvt Ltd",
     date: "January 2024",
     servicesUsed: ["Glass Partitions", "Automatic Doors", "Frosted Film"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/Corporate-Office-Interiors .jpg",
   },
   {
     id: "p3",
-    title: "Emporium Mall Facade",
-    location: "Johar Town, Lahore",
-    description: "Curtain wall system and ACP cladding repair.",
+    title: "Eiffel Tower Bahria Town Lahore",
+    location: "Bahria Town",
+    description: "High-rise glass work completed at Eiffel Tower.",
     fullDescription:
-      "Maintenance and panel replacement for the exterior curtain wall system, ensuring safety and restoring the pristine look of the mall.",
-    client: "Nishat Group",
+      "We successfully completed high-rise glass installation and repair work on the Eiffel Tower structure in Bahria Town Lahore, ensuring durability, safety, and a clean modern finish.",
+    client: "Bahria Town",
     date: "December 2023",
-    servicesUsed: ["ACP Cladding", "Curtain Wall", "Maintenance"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?q=80&w=800&auto=format&fit=crop",
+    servicesUsed: ["Glass Work", "High-Rise Installation", "Maintenance"],
+    imageUrl: "./public/Eiffel-Tower-Bahria-Town-Lahore.jpg",
   },
   {
     id: "p4",
@@ -448,8 +445,7 @@ export const projects: ProjectItem[] = [
     client: "Sapphire Retail",
     date: "October 2023",
     servicesUsed: ["Shop Fronts", "Decorative Mirrors"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/MM-Alam-Road-Boutique.jpg",
   },
   {
     id: "p6",
@@ -461,8 +457,7 @@ export const projects: ProjectItem[] = [
     client: "Packages Ltd",
     date: "September 2023",
     servicesUsed: ["Fiberglass Sheds", "Steel Fabrication"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/Industrial-Fiber-Shed .jpg",
   },
   {
     id: "p7",
@@ -474,8 +469,7 @@ export const projects: ProjectItem[] = [
     client: "Bhira University Admin",
     date: "August 2023",
     servicesUsed: ["Structural Steel", "Laminated Glass"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/Bhira-University-Lahore .webp",
   },
   {
     id: "p8",
@@ -487,8 +481,7 @@ export const projects: ProjectItem[] = [
     client: "Winterland Management",
     date: "July 2023",
     servicesUsed: ["Insulated Glass", "Thermal Break Aluminum"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1545558014-8692077e9b5c?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/Winterland-Park.jpg",
   },
   {
     id: "p9",
@@ -500,8 +493,7 @@ export const projects: ProjectItem[] = [
     client: "ARY Network",
     date: "June 2023",
     servicesUsed: ["Acoustic Glass", "Aluminum Partitions"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/Ary-studios.webp",
   },
   {
     id: "p10",
@@ -513,8 +505,7 @@ export const projects: ProjectItem[] = [
     client: "NHA",
     date: "May 2023",
     servicesUsed: ["Steel Fabrication", "Toughened Glass"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1590247813693-5541d1c609fd?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/Motorway-Toll-Plaza.jpg",
   },
   {
     id: "p11",
@@ -526,8 +517,7 @@ export const projects: ProjectItem[] = [
     client: "Mrs. Farida Khan",
     date: "April 2023",
     servicesUsed: ["UPVC Windows"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/Valencia-Town-Residence.avif",
   },
   {
     id: "p12",
@@ -539,8 +529,7 @@ export const projects: ProjectItem[] = [
     client: "Zaitoon Developers",
     date: "March 2023",
     servicesUsed: ["ACP Cladding", "Reflective Glass"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/Zaitoon-Colony-Commercial.avif",
   },
   {
     id: "p13",
@@ -552,8 +541,7 @@ export const projects: ProjectItem[] = [
     client: "Fazaia Club",
     date: "February 2023",
     servicesUsed: ["Wall Mirrors", "Shower Cabins"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/FazaiaHousingGym.jpg",
   },
   {
     id: "p14",
@@ -565,21 +553,7 @@ export const projects: ProjectItem[] = [
     client: "Mr. Sohail",
     date: "January 2023",
     servicesUsed: ["Fiberglass Shed"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=800&auto=format&fit=crop",
-  },
-  {
-    id: "p15",
-    title: "DHA Raya Golf Club",
-    location: "DHA Raya",
-    description: "Glass railings for clubhouse terrace.",
-    fullDescription:
-      "Premium 12mm tempered glass railings with seamless floor mounting for unobstructed views.",
-    client: "DHA Management",
-    date: "December 2022",
-    servicesUsed: ["Glass Railings"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1599309927702-869c9b54c868?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/lake-city.avif",
   },
   {
     id: "p16",
@@ -591,21 +565,7 @@ export const projects: ProjectItem[] = [
     client: "Doctors Hospital",
     date: "November 2022",
     servicesUsed: ["Automatic Doors"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=800&auto=format&fit=crop",
-  },
-  {
-    id: "p17",
-    title: "Model Town House",
-    location: "Model Town, Lahore",
-    description: "Skylight installation in courtyard.",
-    fullDescription:
-      "Structural glass skylight to cover the central courtyard while allowing natural light.",
-    client: "Mr. Nadeem",
-    date: "October 2022",
-    servicesUsed: ["Skylights", "Structural Glazing"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/Medical-Center-Entrance.jpg",
   },
   {
     id: "p18",
@@ -617,8 +577,7 @@ export const projects: ProjectItem[] = [
     client: "Mosque Committee",
     date: "September 2022",
     servicesUsed: ["Fiberglass Dome", "Safety Grills"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1557053503-0c252e5c8093?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/Bahria-Mosque.jpg",
   },
   {
     id: "p19",
@@ -629,21 +588,7 @@ export const projects: ProjectItem[] = [
     client: "Various Tenants",
     date: "August 2022",
     servicesUsed: ["UV Bonding", "Display Glass"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?q=80&w=800&auto=format&fit=crop",
-  },
-  {
-    id: "p20",
-    title: "State Life Building",
-    location: "Davis Road",
-    description: "Office aluminum partitioning.",
-    fullDescription:
-      "Renovation of an entire floor with powder-coated aluminum partitions.",
-    client: "State Life",
-    date: "July 2022",
-    servicesUsed: ["Aluminum Partitions"],
-    imageUrl:
-      "https://images.unsplash.com/photo-1497215842964-222b430dc094?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "./public/Packages-Mall-Kiosks.jpg",
   },
 ];
 

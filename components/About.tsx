@@ -55,7 +55,7 @@ export const About: React.FC<AboutProps> = ({ isPage = false }) => {
           <Reveal delay={200}>
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?q=80&w=2070&auto=format&fit=crop" 
+                src="../public/home-page.jpg" 
                 alt="Construction Craftsmanship" 
                 className="w-full h-[600px] object-cover hover:scale-105 transition-transform duration-700 ease-out"
               />

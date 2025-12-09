@@ -49,9 +49,9 @@ export const Services: React.FC<ServicesProps> = ({ onNavigate, limit, showCateg
           <p className="text-gray-500 leading-relaxed text-xs md:text-sm flex-1 line-clamp-3 mb-4">
             {service.description}
           </p>
-          <div className="flex items-center text-blue-600 text-xs md:text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300 -translate-x-2 group-hover:translate-x-0">
+          {/* <div className="flex items-center text-blue-600 text-xs md:text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300 -translate-x-2 group-hover:translate-x-0">
             Learn more <ArrowRight className="w-3 h-3 md:w-4 md:h-4 ml-1" />
-          </div>
+          </div> */}
         </div>
       </div>
     </Reveal>
