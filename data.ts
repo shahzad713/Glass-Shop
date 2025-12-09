@@ -596,15 +596,15 @@ export const projects: ProjectItem[] = [
 export const team: TeamMember[] = [
   {
     id: "t1",
-    name: "Usman Ali",
+    name: "Asif Munir",
     role: "CEO & Founder",
-    bio: "25 years of leadership in Pakistan’s glass and aluminum industry. Expert in large-scale commercial facades.",
+    bio: "20 years of leadership in Pakistan’s glass and aluminum industry. Expert in large-scale commercial facades.",
     imageUrl:
       "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=800&auto=format&fit=crop",
   },
   {
     id: "t2",
-    name: "Ahmed Raza",
+    name: "Tanzeel Ahmad",
     role: "Project Director",
     bio: "Civil engineer specializing in structural glazing and high-rise installations in Bahria Town.",
     imageUrl:
@@ -612,7 +612,7 @@ export const team: TeamMember[] = [
   },
   {
     id: "t3",
-    name: "Bilal Khan",
+    name: "Abrar Hussain",
     role: "Head of Fabrication",
     bio: "Master craftsman in aluminum and steel joinery with 15 years of hands-on experience.",
     imageUrl:
@@ -620,7 +620,7 @@ export const team: TeamMember[] = [
   },
   {
     id: "t4",
-    name: "Zainab Bibi",
+    name: "Shahzad Munir",
     role: "Interior Design Lead",
     bio: "Creative visionary for decorative glass, wall paneling, and modern residential interiors.",
     imageUrl:
@@ -628,7 +628,7 @@ export const team: TeamMember[] = [
   },
   {
     id: "t5",
-    name: "Imran Sheikh",
+    name: "Muzafar Hussain",
     role: "Site Supervisor (DHA)",
     bio: "Ensures quality control and timely delivery for all our DHA and Cantt projects.",
     imageUrl:
@@ -636,43 +636,11 @@ export const team: TeamMember[] = [
   },
   {
     id: "t6",
-    name: "Rashid Mehmood",
+    name: "Hafiz Ahmad",
     role: "Senior Technician",
     bio: "Specialist in automatic door systems and sensor glass installations.",
     imageUrl:
       "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=800&auto=format&fit=crop",
-  },
-  {
-    id: "t7",
-    name: "Kashif Bhatti",
-    role: "Fiberglass Specialist",
-    bio: "Expert in molding and installing fiberglass sheds and industrial roofing.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=800&auto=format&fit=crop",
-  },
-  {
-    id: "t8",
-    name: "Noman Tariq",
-    role: "Safety Officer",
-    bio: "Certified safety professional ensuring zero accidents on all high-rise sites.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=800&auto=format&fit=crop",
-  },
-  {
-    id: "t9",
-    name: "Ali Hassan",
-    role: "Sales Manager",
-    bio: "The friendly face connecting clients with the perfect glass solutions for their homes.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=800&auto=format&fit=crop",
-  },
-  {
-    id: "t10",
-    name: "Fahad Mustafa",
-    role: "Logistics Coordinator",
-    bio: "Manages the safe transport of fragile glass and heavy steel to sites across Lahore.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=800&auto=format&fit=crop",
   },
 ];
 
@@ -684,8 +652,7 @@ export const products: ProductItem[] = [
     category: "Glass",
     specs: "12mm thickness, impact resistant",
     description: "High-grade safety glass for partitions and doors.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "/public/Tempered-Glass-12mm.jpg",
   },
   {
     id: "prod2",
@@ -693,8 +660,7 @@ export const products: ProductItem[] = [
     category: "Aluminum",
     specs: "Series 2000, Powder Coated",
     description: "Durable aluminum profiles for window fabrication.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1600607686527-6fb886090705?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "/public/Aluminum-Sliding-Profile .jpg",
   },
   {
     id: "prod3",
@@ -702,8 +668,7 @@ export const products: ProductItem[] = [
     category: "UPVC",
     specs: "Double Glazed Ready, White",
     description: "Energy efficient frames ensuring thermal insulation.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=800&auto=format&fit=crop",
+    imageUrl: "/public/UPVC-Window-Frame .jpg",
   },
   {
     id: "prod4",
@@ -712,7 +677,7 @@ export const products: ProductItem[] = [
     specs: "2mm - 5mm, UV Protected",
     description: "Corrugated and plain sheets for roofing.",
     imageUrl:
-      "https://images.unsplash.com/photo-1595846519845-68e298c2edd8?q=80&w=800&auto=format&fit=crop",
+      "/public/Fiberglass-Sheet.jpg",
   },
   {
     id: "prod5",
@@ -721,7 +686,7 @@ export const products: ProductItem[] = [
     specs: "304 Grade Stainless Steel",
     description: "Heavy duty fittings for structural glazing.",
     imageUrl:
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=800&auto=format&fit=crop",
+      "/public/Spider-Fittings-(SS).jpg",
   },
   {
     id: "prod6",
@@ -730,7 +695,7 @@ export const products: ProductItem[] = [
     specs: "Hydraulic, Floor Spring",
     description: "Smooth operating machines for glass doors.",
     imageUrl:
-      "https://images.unsplash.com/photo-1589820296156-2454bb8a6d54?q=80&w=800&auto=format&fit=crop",
+      "/public/Door-Closer-Machine.jpg",
   },
   {
     id: "prod7",
@@ -739,7 +704,7 @@ export const products: ProductItem[] = [
     specs: "Self-adhesive, Patterned",
     description: "Privacy films for office partitions.",
     imageUrl:
-      "https://images.unsplash.com/photo-1615529182904-14819c35db37?q=80&w=800&auto=format&fit=crop",
+      "/public/Frosted-Glass-Film.jpg",
   },
   {
     id: "prod8",
@@ -748,6 +713,6 @@ export const products: ProductItem[] = [
     specs: "Weatherproof, Clear/Black",
     description: "Industrial grade sealant for glass waterproofing.",
     imageUrl:
-      "https://images.unsplash.com/photo-1632924154823-74b971a07014?q=80&w=800&auto=format&fit=crop",
+      "/public/Silicon-Sealant.jpg",
   },
 ];
