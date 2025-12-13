@@ -569,7 +569,7 @@ export const projects: ProjectItem[] = [
   },
   {
     id: "p18",
-    title: "Bahria Orchard Mosque",
+    title: "Bahria Mosque",
     location: "Bahria Orchard",
     description: "Fiberglass dome and window grills.",
     fullDescription:
