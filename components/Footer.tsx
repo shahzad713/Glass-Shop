@@ -173,7 +173,10 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
                 </a>
               </div>
               <div className="mt-3 text-gray-400 font-mono text-sm select-text">
-                <p>📞 +92 302 099 9713</p>
+                <p>📞 +92 302 0999713</p>
+
+                <p>______________</p>
+                <p>📞 +92 332 7265330</p>
               </div>
             </div>
           </div>
