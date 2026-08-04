@@ -1,0 +1,490 @@
+{
+  "/Aluminum-Sliding-Profile .jpg": {
+    "base": "/optimized/Aluminum-Sliding-Profile ",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/Ary-studios.webp": {
+    "base": "/optimized/Ary-studios",
+    "widths": [
+      480,
+      680
+    ]
+  },
+  "/Bahria-Mosque.jpg": {
+    "base": "/optimized/Bahria-Mosque",
+    "widths": [
+      480,
+      640
+    ]
+  },
+  "/Bhira-University-Lahore .webp": {
+    "base": "/optimized/Bhira-University-Lahore ",
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "/Corporate-Office-Interiors .jpg": {
+    "base": "/optimized/Corporate-Office-Interiors ",
+    "widths": [
+      480,
+      676
+    ]
+  },
+  "/Door-Closer-Machine.jpg": {
+    "base": "/optimized/Door-Closer-Machine",
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "/Eiffel-Tower-Bahria-Town-Lahore.jpg": {
+    "base": "/optimized/Eiffel-Tower-Bahria-Town-Lahore",
+    "widths": [
+      480,
+      750
+    ]
+  },
+  "/FazaiaHousingGym.jpg": {
+    "base": "/optimized/FazaiaHousingGym",
+    "widths": [
+      480,
+      768,
+      1000
+    ]
+  },
+  "/Fiberglass-Sheet.jpg": {
+    "base": "/optimized/Fiberglass-Sheet",
+    "widths": [
+      480,
+      768,
+      894
+    ]
+  },
+  "/Frosted-Glass-Film.jpg": {
+    "base": "/optimized/Frosted-Glass-Film",
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "/Industrial-Fiber-Shed .jpg": {
+    "base": "/optimized/Industrial-Fiber-Shed ",
+    "widths": [
+      480,
+      600
+    ]
+  },
+  "/MM-Alam-Road-Boutique.jpg": {
+    "base": "/optimized/MM-Alam-Road-Boutique",
+    "widths": [
+      480,
+      736
+    ]
+  },
+  "/Medical-Center-Entrance.jpg": {
+    "base": "/optimized/Medical-Center-Entrance",
+    "widths": [
+      480,
+      570
+    ]
+  },
+  "/Motorway-Toll-Plaza.jpg": {
+    "base": "/optimized/Motorway-Toll-Plaza",
+    "widths": [
+      480,
+      661
+    ]
+  },
+  "/Packages-Mall-Kiosks.jpg": {
+    "base": "/optimized/Packages-Mall-Kiosks",
+    "widths": [
+      480,
+      768,
+      801
+    ]
+  },
+  "/Silicon-Sealant.jpg": {
+    "base": "/optimized/Silicon-Sealant",
+    "widths": [
+      480,
+      600
+    ]
+  },
+  "/Spider-Fittings-(SS).jpg": {
+    "base": "/optimized/Spider-Fittings-(SS)",
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "/Tempered-Glass-12mm.jpg": {
+    "base": "/optimized/Tempered-Glass-12mm",
+    "widths": [
+      350
+    ]
+  },
+  "/UPVC-Window-Frame .jpg": {
+    "base": "/optimized/UPVC-Window-Frame ",
+    "widths": [
+      480,
+      640
+    ]
+  },
+  "/Valencia-Town-Residence.avif": {
+    "base": "/optimized/Valencia-Town-Residence",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/Winterland-Park.jpg": {
+    "base": "/optimized/Winterland-Park",
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "/Zaitoon-Colony-Commercial.avif": {
+    "base": "/optimized/Zaitoon-Colony-Commercial",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/home-page.jpg": {
+    "base": "/optimized/home-page",
+    "widths": [
+      640,
+      960,
+      1200
+    ]
+  },
+  "/images/advanced-solutions/acp-cladding.png": {
+    "base": "/images/advanced-solutions/optimized/acp-cladding",
+    "widths": [
+      480,
+      736
+    ]
+  },
+  "/images/advanced-solutions/automatic-sliding-doors.png": {
+    "base": "/images/advanced-solutions/optimized/automatic-sliding-doors",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/advanced-solutions/glass-skylights.png": {
+    "base": "/images/advanced-solutions/optimized/glass-skylights",
+    "widths": [
+      480,
+      768,
+      927
+    ]
+  },
+  "/images/advanced-solutions/spider-glazing-systems.png": {
+    "base": "/images/advanced-solutions/optimized/spider-glazing-systems",
+    "widths": [
+      480,
+      600
+    ]
+  },
+  "/images/aluminum-steel/aluminum-kitchen-cabinets.png": {
+    "base": "/images/aluminum-steel/optimized/aluminum-kitchen-cabinets",
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "/images/aluminum-steel/aluminum-office-partitions.png": {
+    "base": "/images/aluminum-steel/optimized/aluminum-office-partitions",
+    "widths": [
+      480,
+      736
+    ]
+  },
+  "/images/aluminum-steel/automated-main-gates.png": {
+    "base": "/images/aluminum-steel/optimized/automated-main-gates",
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "/images/aluminum-steel/staircase-railings.png": {
+    "base": "/images/aluminum-steel/optimized/staircase-railings",
+    "widths": [
+      480,
+      500
+    ]
+  },
+  "/images/aluminum-steel/steel-safety-grills.png": {
+    "base": "/images/aluminum-steel/optimized/steel-safety-grills",
+    "widths": [
+      480,
+      768,
+      850
+    ]
+  },
+  "/images/aluminum-steel/structural-steel-framing.png": {
+    "base": "/images/aluminum-steel/optimized/structural-steel-framing",
+    "widths": [
+      480,
+      735
+    ]
+  },
+  "/images/fiberglass-solutions/fiber-water-tank-covers.png": {
+    "base": "/images/fiberglass-solutions/optimized/fiber-water-tank-covers",
+    "widths": [
+      480,
+      768,
+      1000
+    ]
+  },
+  "/images/fiberglass-solutions/fiberglass-domes.png": {
+    "base": "/images/fiberglass-solutions/optimized/fiberglass-domes",
+    "widths": [
+      480,
+      768,
+      1000
+    ]
+  },
+  "/images/fiberglass-solutions/industrial-fiber-roofing.png": {
+    "base": "/images/fiberglass-solutions/optimized/industrial-fiber-roofing",
+    "widths": [
+      480,
+      736
+    ]
+  },
+  "/images/fiberglass-solutions/rooftop-fiber-shelters.png": {
+    "base": "/images/fiberglass-solutions/optimized/rooftop-fiber-shelters",
+    "widths": [
+      480,
+      760
+    ]
+  },
+  "/images/glass-mirrors/12mm-toughened-glass.png": {
+    "base": "/images/glass-mirrors/optimized/12mm-toughened-glass",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/glass-mirrors/decorative-etched-glass.png": {
+    "base": "/images/glass-mirrors/optimized/decorative-etched-glass",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/glass-mirrors/frameless-glass-doors.png": {
+    "base": "/images/glass-mirrors/optimized/frameless-glass-doors",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/glass-mirrors/glass-balcony-railings.png": {
+    "base": "/images/glass-mirrors/optimized/glass-balcony-railings",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/glass-mirrors/glass-table-tops.png": {
+    "base": "/images/glass-mirrors/optimized/glass-table-tops",
+    "widths": [
+      480,
+      687
+    ]
+  },
+  "/images/glass-mirrors/laminated-safety-glass.png": {
+    "base": "/images/glass-mirrors/optimized/laminated-safety-glass",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/glass-mirrors/led-bathroom-mirrors.png": {
+    "base": "/images/glass-mirrors/optimized/led-bathroom-mirrors",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/glass-mirrors/office-glass-partitions.png": {
+    "base": "/images/glass-mirrors/optimized/office-glass-partitions",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/glass-mirrors/retail-shop-fronts.png": {
+    "base": "/images/glass-mirrors/optimized/retail-shop-fronts",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/glass-mirrors/shower-glass-enclosures.png": {
+    "base": "/images/glass-mirrors/optimized/shower-glass-enclosures",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/interior-decorative/window-blinds.png": {
+    "base": "/images/interior-decorative/optimized/window-blinds",
+    "widths": [
+      480,
+      768,
+      1000
+    ]
+  },
+  "/images/projects/askari-11-apartments.png": {
+    "base": "/images/projects/optimized/askari-11-apartments",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/repair-maintenance/door-closer-fixing.png": {
+    "base": "/images/repair-maintenance/optimized/door-closer-fixing",
+    "widths": [
+      480,
+      768,
+      1000
+    ]
+  },
+  "/images/repair-maintenance/glass-polishing.png": {
+    "base": "/images/repair-maintenance/optimized/glass-polishing",
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "/images/repair-maintenance/window-leakproofing.png": {
+    "base": "/images/repair-maintenance/optimized/window-leakproofing",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/team/abrar-hussain.png": {
+    "base": "/images/team/optimized/abrar-hussain",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/team/asif-munir.png": {
+    "base": "/images/team/optimized/asif-munir",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/team/hafiz-ahmad.png": {
+    "base": "/images/team/optimized/hafiz-ahmad",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/team/muzafar-hussain.png": {
+    "base": "/images/team/optimized/muzafar-hussain",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/team/shahzad-munir.png": {
+    "base": "/images/team/optimized/shahzad-munir",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/team/tanzeel-ahmad.png": {
+    "base": "/images/team/optimized/tanzeel-ahmad",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/images/upvc-solutions/soundproof-glazing.png": {
+    "base": "/images/upvc-solutions/optimized/soundproof-glazing",
+    "widths": [
+      480,
+      600
+    ]
+  },
+  "/images/upvc-solutions/upvc-casement-windows.png": {
+    "base": "/images/upvc-solutions/optimized/upvc-casement-windows",
+    "widths": [
+      480,
+      736
+    ]
+  },
+  "/images/upvc-solutions/upvc-french-doors.png": {
+    "base": "/images/upvc-solutions/optimized/upvc-french-doors",
+    "widths": [
+      480,
+      768,
+      944
+    ]
+  },
+  "/images/upvc-solutions/wood-finish-upvc.png": {
+    "base": "/images/upvc-solutions/optimized/wood-finish-upvc",
+    "widths": [
+      480,
+      720
+    ]
+  },
+  "/lake-city.avif": {
+    "base": "/optimized/lake-city",
+    "widths": [
+      480,
+      768,
+      800
+    ]
+  },
+  "/luxuryvilla.jpg": {
+    "base": "/optimized/luxuryvilla",
+    "widths": [
+      480,
+      735
+    ]
+  }
+}

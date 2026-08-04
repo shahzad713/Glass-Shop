@@ -1,8 +1,10 @@
-/* Self-hosted Inter (no render-blocking Google Fonts request) */
-@import "@fontsource/inter/400.css";
-@import "@fontsource/inter/500.css";
-@import "@fontsource/inter/600.css";
-@import "@fontsource/inter/700.css";
+/* Self-hosted Inter, Latin subset only (no render-blocking Google Fonts
+   request, no unused Cyrillic/Greek/Vietnamese subsets). font-display: swap
+   is baked into each @font-face so text never blocks on the font. */
+@import "@fontsource/inter/latin-400.css";
+@import "@fontsource/inter/latin-500.css";
+@import "@fontsource/inter/latin-600.css";
+@import "@fontsource/inter/latin-700.css";
 
 @tailwind base;
 @tailwind components;

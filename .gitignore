@@ -40,6 +40,11 @@ ROUTE_AUDIT.csv
 SEARCH_CONSOLE_SUBMISSION.md
 SEO_FIX_LOG.md
 
+# Local scratch / one-off audit scripts (never shipped)
+scratch_*.mjs
+tmp_*.mjs
+tmp_*.js
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

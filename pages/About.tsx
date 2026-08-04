@@ -125,19 +125,21 @@ export function Component() {
           <SectionHeading eyebrow="How it works" title="Our Process" />
           <ol className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {processSteps.map((step, i) => (
-              <Reveal key={step.title} delay={(i % 3) * 60}>
-                <li className="flex h-full gap-4 rounded-2xl border border-graphite-100 bg-surface p-5">
-                  <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-graphite-900 text-sm font-bold text-white">
-                    {i + 1}
-                  </span>
-                  <div>
-                    <h3 className="font-semibold text-graphite-900">{step.title}</h3>
-                    <p className="mt-1 text-sm text-graphite-500">
-                      {step.description}
-                    </p>
+              <li key={step.title} className="h-full">
+                <Reveal delay={(i % 3) * 60} className="h-full">
+                  <div className="flex h-full gap-4 rounded-2xl border border-graphite-100 bg-surface p-5">
+                    <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-graphite-900 text-sm font-bold text-white">
+                      {i + 1}
+                    </span>
+                    <div>
+                      <h3 className="font-semibold text-graphite-900">{step.title}</h3>
+                      <p className="mt-1 text-sm text-graphite-500">
+                        {step.description}
+                      </p>
+                    </div>
                   </div>
-                </li>
-              </Reveal>
+                </Reveal>
+              </li>
             ))}
           </ol>
         </div>

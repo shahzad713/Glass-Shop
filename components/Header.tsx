@@ -58,7 +58,7 @@ export function Header() {
               className="h-9 w-9 shrink-0"
             />
             <span>
-              Labbyak Glass<span className="text-glass-500"> &amp; Aluminium</span>
+              Labbyak Glass<span className="text-glass-600"> &amp; Aluminium</span>
             </span>
           </Link>
 
@@ -74,7 +74,7 @@ export function Header() {
                 >
                   <Link
                     to="/services"
-                    className={`flex items-center gap-1 text-sm font-medium transition-colors hover:text-glass-500 ${
+                    className={`flex items-center gap-1 text-sm font-medium transition-colors hover:text-glass-600 ${
                       solid ? "text-graphite-600" : "text-white/90"
                     }`}
                     aria-haspopup="true"
@@ -104,9 +104,9 @@ export function Header() {
                   key={item.href}
                   to={item.href}
                   className={({ isActive }) =>
-                    `text-sm font-medium transition-colors hover:text-glass-500 ${
+                    `text-sm font-medium transition-colors hover:text-glass-600 ${
                       isActive
-                        ? "text-glass-500"
+                        ? "text-glass-600"
                         : solid
                           ? "text-graphite-600"
                           : "text-white/90"

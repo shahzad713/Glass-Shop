@@ -28,7 +28,7 @@ export function Footer() {
                 {business.name}
               </span>
             </Link>
-            <p className="text-sm leading-relaxed text-graphite-400">
+            <p className="text-sm leading-relaxed text-graphite-300">
               Aluminium windows and doors, glass shop fronts, UPVC windows,
               partitions, railings and glass repair across Lahore.
             </p>
@@ -104,7 +104,7 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-graphite-800 pt-6 text-xs text-graphite-500 md:flex-row">
+        <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-graphite-800 pt-6 text-xs text-graphite-300 md:flex-row">
           <p>© {year} {business.name}. All rights reserved.</p>
           <div className="flex gap-6">
             <Link to="/privacy-policy" className="hover:text-white">

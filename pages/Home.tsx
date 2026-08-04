@@ -8,7 +8,6 @@ import { ProjectCard } from "../components/ui/ProjectCard";
 import { GoogleRatingBadge } from "../components/ui/GoogleRatingBadge";
 import { FAQAccordion } from "../components/ui/FAQAccordion";
 import { CTASection } from "../components/ui/CTASection";
-import { WhatsAppButton } from "../components/ui/Buttons";
 import {
   services,
   projects,
@@ -16,10 +15,8 @@ import {
   benefits,
   generalFaqs,
   serviceAreas,
-  servicePages,
   business,
   site,
-  absoluteUrl,
 } from "@/config";
 import {
   localBusinessSchema,
@@ -157,17 +154,19 @@ export function Component() {
           />
           <ol className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {processSteps.map((step, i) => (
-              <Reveal key={step.title} delay={(i % 3) * 70}>
-                <li className="flex h-full gap-4 rounded-2xl border border-graphite-100 bg-white p-5">
-                  <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-graphite-900 text-sm font-bold text-white">
-                    {i + 1}
-                  </span>
-                  <div>
-                    <h3 className="font-semibold text-graphite-900">{step.title}</h3>
-                    <p className="mt-1 text-sm text-graphite-500">{step.description}</p>
+              <li key={step.title} className="h-full">
+                <Reveal delay={(i % 3) * 70} className="h-full">
+                  <div className="flex h-full gap-4 rounded-2xl border border-graphite-100 bg-white p-5">
+                    <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-graphite-900 text-sm font-bold text-white">
+                      {i + 1}
+                    </span>
+                    <div>
+                      <h3 className="font-semibold text-graphite-900">{step.title}</h3>
+                      <p className="mt-1 text-sm text-graphite-500">{step.description}</p>
+                    </div>
                   </div>
-                </li>
-              </Reveal>
+                </Reveal>
+              </li>
             ))}
           </ol>
         </div>
@@ -248,7 +247,7 @@ function TrustItem({
         {icon}
       </span>
       <div>
-        <p className="text-xs text-graphite-400">{label}</p>
+        <p className="text-xs text-graphite-500">{label}</p>
         <p className="text-sm font-semibold text-graphite-900">{value}</p>
       </div>
     </div>
