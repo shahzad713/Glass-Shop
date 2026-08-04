@@ -1,0 +1,14 @@
+{
+  "name": "Labbyak Glass & Aluminium",
+  "short_name": "Labbyak",
+  "description": "Aluminium windows and doors, glass shop fronts, partitions, railings, shower cabins and glass repair in Lahore.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1F2A",
+  "theme_color": "#0B1F2A",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/android-chrome-192x192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/android-chrome-512x512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}

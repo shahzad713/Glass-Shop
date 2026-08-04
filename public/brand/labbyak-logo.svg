@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 72" role="img" aria-label="Labbyak Glass &amp; Aluminium">
+  <defs>
+    <clipPath id="lg-h-glass"><rect x="14.5" y="12.5" width="35" height="39" rx="3"/></clipPath>
+  </defs>
+  <!-- Mark -->
+  <g transform="translate(4 4)">
+    <rect width="64" height="64" rx="14" fill="#0B1F2A"/>
+    <rect x="13" y="11" width="38" height="42" rx="4" fill="#B8C2C8"/>
+    <rect x="14.5" y="12.5" width="35" height="39" rx="3" fill="#55B6D2"/>
+    <polygon points="26,0 42,0 0,42 0,26" fill="#FFFFFF" opacity="0.20" clip-path="url(#lg-h-glass)"/>
+    <rect x="18" y="18" width="6.5" height="24" fill="#0B1F2A"/>
+    <rect x="18" y="35.5" width="13" height="6.5" fill="#0B1F2A"/>
+    <rect x="29" y="18" width="17" height="6" fill="#0B1F2A"/>
+    <rect x="40" y="18" width="6" height="20" fill="#0B1F2A"/>
+    <rect x="34" y="32" width="12" height="6" fill="#0B1F2A"/>
+    <rect x="37.5" y="27.5" width="8.5" height="5" fill="#0B1F2A"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="82" y="34" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="0.5" fill="#0B1F2A">LABBYAK</text>
+  <text x="83" y="52" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" letter-spacing="3.2" fill="#55B6D2">GLASS &amp; ALUMINIUM</text>
+</svg>

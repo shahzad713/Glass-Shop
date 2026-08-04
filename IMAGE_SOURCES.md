@@ -174,3 +174,24 @@ _No stock/third-party imagery is used anywhere. If the owner later supplies
 dedicated photos for the four Illustrative services above, drop them into the
 matching `/images/<category>/` folder, update `data.ts`, and flip the rows to
 Real._
+
+---
+
+## Brand identity (original vector artwork)
+
+Created in-house for Labbyak Glass & Aluminium — original SVG geometry, no stock
+or third-party source. Palette: charcoal `#0B1F2A`, glass blue `#55B6D2`,
+aluminium silver `#B8C2C8`. Raster favicons are generated from the mark by
+`scripts/generate-icons.mjs` (zero-dependency Node rasterizer, run at prebuild).
+
+| File | Type | Use |
+|------|------|-----|
+| `brand/labbyak-logo.svg` | Original | Horizontal full logo (mark + wordmark) |
+| `brand/labbyak-logo-stacked.svg` | Original | Stacked logo |
+| `brand/labbyak-logo-mark.svg` | Original | Icon-only monogram (header + footer) |
+| `brand/labbyak-logo-light.svg` | Original | One-colour white (dark backgrounds) |
+| `brand/labbyak-logo-dark.svg` | Original | One-colour charcoal (light backgrounds) |
+| `favicon.svg` | Original | SVG favicon (icon-only) |
+| `favicon.ico` `favicon-16x16.png` `favicon-32x32.png` | Generated | Browser tab icons |
+| `apple-touch-icon.png` | Generated | iOS home-screen icon (180×180) |
+| `android-chrome-192x192.png` `android-chrome-512x512.png` | Generated | PWA / manifest icons |

@@ -18,7 +18,7 @@ export const site = {
   shortName: business.shortName,
   locale: "en_PK",
   lang: "en",
-  themeColor: "#1f2933", // graphite
+  themeColor: "#0B1F2A", // architectural charcoal (brand)
   defaultTitle: `${business.tagline} | ${business.shortName}`,
   titleTemplate: `%s | ${business.name}`,
   defaultDescription: business.description,

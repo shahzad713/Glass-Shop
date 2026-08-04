@@ -45,11 +45,21 @@ export function Header() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 md:px-6 md:py-4">
           <Link
             to="/"
-            className={`text-lg md:text-xl font-bold tracking-tight ${
+            className={`flex items-center gap-2.5 text-lg md:text-xl font-bold tracking-tight ${
               solid ? "text-graphite-900" : "text-white"
             }`}
+            aria-label="Labbyak Glass & Aluminium — home"
           >
-            Labbyak Glass<span className="text-glass-500"> &amp; Aluminium</span>
+            <img
+              src="/brand/labbyak-logo-mark.svg"
+              alt=""
+              width={36}
+              height={36}
+              className="h-9 w-9 shrink-0"
+            />
+            <span>
+              Labbyak Glass<span className="text-glass-500"> &amp; Aluminium</span>
+            </span>
           </Link>
 
           {/* Desktop nav */}

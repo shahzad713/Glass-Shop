@@ -53,7 +53,7 @@ export function organizationSchema() {
     name: business.name,
     legalName: business.legalName,
     url: SITE_URL,
-    logo: `${SITE_URL}/favicon.svg`,
+    logo: `${SITE_URL}/android-chrome-512x512.png`,
     email: business.email,
     telephone: business.phone.tel,
     address: postalAddress(),

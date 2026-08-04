@@ -16,7 +16,18 @@ export function Footer() {
         <div className="grid grid-cols-1 gap-10 sm:grid-cols-2 md:grid-cols-4">
           {/* Brand + contact */}
           <div className="space-y-4">
-            <p className="text-xl font-bold text-white">{business.name}</p>
+            <Link to="/" className="flex items-center gap-2.5" aria-label={`${business.name} — home`}>
+              <img
+                src="/brand/labbyak-logo-mark.svg"
+                alt=""
+                width={40}
+                height={40}
+                className="h-10 w-10 shrink-0"
+              />
+              <span className="text-lg font-bold leading-tight text-white">
+                {business.name}
+              </span>
+            </Link>
             <p className="text-sm leading-relaxed text-graphite-400">
               Aluminium windows and doors, glass shop fronts, UPVC windows,
               partitions, railings and glass repair across Lahore.
