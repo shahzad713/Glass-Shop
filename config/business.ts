@@ -74,8 +74,8 @@ export const business = {
    * because it reflects the genuine Google Business Profile.
    */
   rating: {
-    value: 4.8,
-    count: 27,
+    value: 4.9,
+    count: 40,
   },
 
   /**
