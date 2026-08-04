@@ -70,8 +70,11 @@ export const business = {
   },
 
   /**
-   * Owner-confirmed aggregate rating. Safe to display AND use in schema
-   * because it reflects the genuine Google Business Profile.
+   * Owner-confirmed Google rating — for VISIBLE display only (trust badge,
+   * About page), linking to the genuine Google Business Profile. Deliberately
+   * NOT emitted as aggregateRating/Review JSON-LD: self-serving review snippets
+   * violate Google's structured-data guidelines and were flagged in Search
+   * Console. Do not add this back into schema.ts.
    */
   rating: {
     value: 4.9,

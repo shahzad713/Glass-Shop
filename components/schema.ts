@@ -18,7 +18,12 @@ function postalAddress() {
   };
 }
 
-/** LocalBusiness — the primary entity. Includes the verified aggregate rating. */
+/**
+ * LocalBusiness — the primary entity. No aggregateRating/review: self-serving
+ * review snippets are invalid per Google's guidelines. The genuine Google
+ * rating stays visible for users (linking to the Google Business Profile) but
+ * is not emitted as structured data.
+ */
 export function localBusinessSchema() {
   return {
     "@context": "https://schema.org",
@@ -31,13 +36,6 @@ export function localBusinessSchema() {
     email: business.email,
     address: postalAddress(),
     areaServed: { "@type": "City", name: "Lahore" },
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: business.rating.value,
-      reviewCount: business.rating.count,
-      bestRating: 5,
-      worstRating: 1,
-    },
     ...(business.social.facebook
       ? { sameAs: [business.social.facebook] }
       : {}),
