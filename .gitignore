@@ -23,6 +23,23 @@ coverage/
 playwright-report/
 test-results/
 
+# Private internal audit and SEO planning documents
+CLAUDE.md
+CONTENT_PLAN_LOCAL_SEO.md
+FINAL_SEO_AUDIT.md
+GBP_ACTION_PLAN.md
+GBP_CONTENT_PLAN.md
+IMPLEMENTATION_REPORT.md
+LOCAL_CITATION_PLAN.md
+LOCAL_COMPETITOR_GAPS.md
+LOCAL_SEO_AUDIT.md
+OWNER_ACTIONS.md
+POST_LAUNCH_SEO.md
+REVIEW_WORKFLOW.md
+ROUTE_AUDIT.csv
+SEARCH_CONSOLE_SUBMISSION.md
+SEO_FIX_LOG.md
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
