@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# No crawl restrictions — all indexable pages are open to search engines.
+# Utility pages that should not be indexed use a per-page noindex robots meta
+# tag instead of being disallowed here.
+
+Sitemap: https://www.labbyakglass.com/sitemap.xml
